@@ -19,6 +19,11 @@ a:visited {
     /* color: #e84c3d; */
 }
 
+.session-exp {
+    color: yellow;
+    max-width: 100%;
+}
+
 a:hover,
 a:active {
     outline: none;
